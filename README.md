@@ -7,6 +7,7 @@ Amazon is an amazing company.  They are an important part to many people’s liv
 Around 3 million of 10million entries from [Clothe, Shoes, and Jewelry](https://nijianmo.github.io/amazon/index.html) where use to create this recommendation system.  Because of the size of the operating system all data was not able to be use. Random selection was chosen to select entries used. 
 ## Machine Learning Recommendation System 
 * Surprised was used to test different recommendation systems. 
+<br/>![](https://github.com/laurencoats/InstagramforAmazon/blob/main/photos/table.png)
 * <b>Baseline</b> worked best on our sample size and used it to make the recommendations
 ## Next Steps 
 * Implement with in Amazon web page as an additional footer 
